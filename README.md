@@ -1,5 +1,5 @@
 <!--
-  README.md - Premium GitHub Profile for Alvin Prince Agala
+  README.md - Premium GitHub Profile for bixen brown
   Theme: Dark | Aesthetic: Premium/Minimalist
 -->
 
@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 
-> I am **Alvin Prince Agala**, a Lead Developer and Data Architect passionate about constructing robust automated systems. My work focuses on the intersection of high-performance computing and intelligent data flow.
+> I am **bixen brown**, a Lead Developer and Data Architect passionate about constructing robust automated systems. My work focuses on the intersection of high-performance computing and intelligent data flow.
 >
-> Currently, I specialize in designing **automated pipeline blueprints**, developing native **Rust applications** for critical infrastructure, and engineering **localized conversational software** that bridges language gaps. With my coursework completed, I am focused on deploying scalable open-source solutions and advancing the state of distributed systems.
+> Currently, I specialize in designing **automated pipeline blueprints**, developing native **Rust applications** for critical infrastructure, and engineering **localized conversational software** that bridges language gaps. With my coursework completed and awaiting graduation, I am focused on deploying scalable open-source solutions and advancing the state of distributed systems.
 
 ---
 
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
@@ -39,32 +38,18 @@
 | **🦀 Rust School Demo Day App** | A high-performance, memory-safe application designed for educational demonstrations, showcasing concurrent processing capabilities. | `Rust` `Tauri` `WebAssembly` |
 | **⚡ Statistical Logic Gate Script** | An advanced algorithmic script implementing complex statistical models to drive decision-making logic gates in data pipelines. | `Python` `NumPy` `SciPy` |
 | **💬 Localized Conversational Software** | A prototype NLP engine capable of understanding and generating context-aware dialogue in multiple local dialects. | `Rust` `NLP` `Machine Learning` |
-| **🔄 Automated Pipeline Blueprints** | Modular architecture designs for ETL processes that ensure data integrity and real-time availability. | `Apache Airflow` `Docker` `SQL` |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bixenbrown-source&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bixenbrown-source&theme=tokyonight&bg_color=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bixenbrown-source&layout=compact&theme=tokyonight&bg_color=00000000&title_color=58A6FF&text_color=ffffff&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bixenbrown&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bixenbrown&theme=tokyonight&bg_color=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" height="160" />
 </p>
 
 ---
 
 <p align="center">
   <em>Let's architect the future of data and automation together.</em>
-</p>
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
