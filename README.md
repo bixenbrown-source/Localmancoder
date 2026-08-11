@@ -1,75 +1,134 @@
-<!-- README.md for @bixenbrown -->
+<!-- 
+  🌌 Glassmorphism Profile README for @bixenbrown
+  Design: Deep navy/charcoal with violet-cyan-pink gradient accents
+  Aesthetic: Premium dark-mode dashboard with frosted glass panels
+-->
 
 <div align="center">
 
-<!-- 1. Dynamic Animated Typing Header (Glass Banner Style) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=C792EA&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=Lead+Developer+%26+Data+Architect;Building+Automated+Pipeline+Blueprints;Crafting+Native+Rust+Applications;Designing+Localized+Conversational+Software" alt="Typing SVG" />
+<!-- 1. ANIMATED GLASS-STYLE HEADER -->
+<a href="https://github.com/bixenbrown">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=C792EA&background=0D111700&center=true&vCenter=true&width=750&height=65&lines=Hey%2C+I'm+bixenbrown;Lead+Developer+%26+Data+Architect;Rust+%C2%B7+Pipelines+%C2%B7+Conversational+AI;Building+systems+that+compile+clean+%26+run+fast" alt="Typing SVG" />
+</a>
 
-<br/><br/>
+<br>
 
-<!-- 2. About Me - Frosted Glass Info Card -->
-<table border="0" cellpadding="20" cellspacing="0" width="100%" style="background: linear-gradient(145deg, rgba(22,27,34,0.85), rgba(13,17,23,0.9)); border-radius: 16px; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); box-shadow: 0 8px 32px rgba(0,0,0,0.4);">
-  <tr>
-    <td align="center" valign="middle">
-      <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color: #a9b7c6; margin: 0; line-height: 1.8;">
-        👨‍💻 <strong>Lead Developer & Data Architect</strong> passionate about building resilient systems.<br/>
-        🦀 Specializing in <strong>automated pipeline blueprints</strong> and <strong>native Rust applications</strong>.<br/>
-        💬 Focused on <strong>localized conversational software</strong> and intelligent data flows.<br/>
-        🎓 Coursework complete — awaiting graduation.<br/>
-        ✨ Designing premium dark-mode experiences with clean, modern aesthetics.
-      </p>
-    </td>
-  </tr>
+<img src="https://img.shields.io/badge/-%20-6C5CE7?style=for-the-badge&labelColor=6C5CE7" height="4" width="700"/>
+
+</div>
+
+<br>
+
+<!-- 2. ABOUT ME — FROSTED GLASS CARD -->
+<div align="center">
+
+### ✨ About Me
+
+<table border="0" cellpadding="25" cellspacing="0" style="background: linear-gradient(145deg, rgba(22,27,34,0.85), rgba(13,17,23,0.9)); border-radius: 16px; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); box-shadow: 0 8px 32px rgba(0,0,0,0.4);">
+<tr>
+<td align="center" valign="middle">
+
+🧭&nbsp;&nbsp;**Lead Developer** & **Data Architect**
+
+🦀&nbsp;&nbsp;Building native, high-performance apps in **Rust**
+
+🔗&nbsp;&nbsp;Designing **automated pipeline blueprints** for scalable data systems
+
+💬&nbsp;&nbsp;Crafting **localized conversational software** with NLP-driven interfaces
+
+🎓&nbsp;&nbsp;Coursework complete — currently **awaiting graduation**
+
+✦&nbsp;&nbsp;*"Build systems that compile clean, run fast, and fail loud."*
+
+</td>
+</tr>
 </table>
 
-<br/><br/>
+</div>
 
-<!-- 3. Tech Stack - Soft Dark Palette Badges -->
-<h3 style="font-family: 'Segoe UI', sans-serif; color: #c792ea; text-shadow: 0 0 12px rgba(199,146,234,0.4);">⚙️ Tech Stack</h3>
+<br>
+
+<!-- 3. TECH STACK -->
+<div align="center">
+
+### 🧊 Tech Stack
+
+<img src="https://img.shields.io/badge/Rust-1a1a2e?style=for-the-badge&logo=rust&logoColor=C792EA&colorA=1a1f2e&colorB=c792ea" alt="Rust"/>
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=00B8A9&colorA=1a1f2e&colorB=89ddff" alt="Python"/>
+<img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=6C5CE7&colorA=1a1f2e&colorB=ffcb6b" alt="Git"/>
+<br>
+<img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=00B8A9&colorA=1a1f2e&colorB=82aaff" alt="Docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=C792EA&colorA=1a1f2e&colorB=89ddff" alt="Postgres"/>
+<img src="https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=6C5CE7&colorA=1a1f2e&colorB=ffcb6b" alt="AWS"/>
+
+</div>
+
+<br>
+
+<img src="https://img.shields.io/badge/-%20-00B8A9?style=for-the-badge&labelColor=00B8A9" height="4" width="700"/>
+
+<br><br>
+
+<!-- 4. FEATURED PROJECTS — GLASS CARD TABLE -->
+<div align="center">
+
+### 💠 Featured Projects
+
+<table border="0" cellpadding="18" cellspacing="0" width="90%" style="background: linear-gradient(145deg, rgba(22,27,34,0.75), rgba(13,17,23,0.85)); border-radius: 14px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); box-shadow: 0 6px 24px rgba(0,0,0,0.35);">
+<tr style="border-bottom: 1px solid rgba(199,146,234,0.3);">
+<th align="left" style="font-family: 'Segoe UI', sans-serif; font-size: 15px; color: #c792ea; padding: 12px;">Project</th>
+<th align="left" style="font-family: 'Segoe UI', sans-serif; font-size: 15px; color: #c792ea; padding: 12px;">Description</th>
+<th align="left" style="font-family: 'Segoe UI', sans-serif; font-size: 15px; color: #c792ea; padding: 12px;">Stack</th>
+</tr>
+<tr style="border-bottom: 1px solid rgba(137,221,255,0.15);">
+<td style="padding: 14px;"><strong>🦀 Rust School Demo Day App</strong></td>
+<td style="padding: 14px; color: #a9b7c6; font-size: 14px;">A high-performance native application showcasing memory-safe systems programming, built for live Demo Day presentation.</td>
+<td style="padding: 14px;"><code>Rust</code> · <code>Cargo</code></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(137,221,255,0.15);">
+<td style="padding: 14px;"><strong>📊 Statistical Logic Gate Script</strong></td>
+<td style="padding: 14px; color: #a9b7c6; font-size: 14px;">A script implementing statistical logic gates for probabilistic modeling and advanced data evaluation.</td>
+<td style="padding: 14px;"><code>Python</code> · <code>NumPy</code></td>
+</tr>
+<tr>
+<td style="padding: 14px;"><strong>💬 Conversational Software Prototype</strong></td>
+<td style="padding: 14px; color: #a9b7c6; font-size: 14px;">A localized conversational software prototype with NLP-driven, multi-language intent parsing.</td>
+<td style="padding: 14px;"><code>Python</code> · <code>NLP</code> · <code>PostgreSQL</code></td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://img.shields.io/badge/-%20-C792EA?style=for-the-badge&labelColor=C792EA" height="4" width="700"/>
+
+<br><br>
+
+<!-- 5. GITHUB STATS -->
+<div align="center">
+
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&colorA=1a1f2e&colorB=c792ea" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&colorA=1a1f2e&colorB=89ddff" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&colorA=1a1f2e&colorB=ffcb6b" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&colorA=1a1f2e&colorB=82aaff" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&colorA=1a1f2e&colorB=89ddff" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&colorA=1a1f2e&colorB=ffcb6b" alt="AWS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bixenbrown&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=C792EA&icon_color=00B8A9&text_color=c9c9e0&border_color=6C5CE7&border_radius=12&hide_border=false" alt="bixenbrown's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bixenbrown&theme=tokyonight&background=00000000&stroke=6C5CE7&ring=C792EA&fire=00B8A9&currStreakLabel=C792EA&sideLabels=c9c9e0&currStreakNum=c9c9e0&sideNums=c9c9e0&dates=8b8ba7&border=6C5CE7&border_radius=12&hide_border=false" alt="bixenbrown's GitHub Streak" height="165"/>
 </p>
 
-<br/><br/>
-
-<!-- 4. Featured Projects - Glass Card Table -->
-<h3 style="font-family: 'Segoe UI', sans-serif; color: #89ddff; text-shadow: 0 0 12px rgba(137,221,255,0.4);">🚀 Featured Projects</h3>
-
-<table border="0" cellpadding="16" cellspacing="0" width="100%" style="background: linear-gradient(145deg, rgba(22,27,34,0.75), rgba(13,17,23,0.85)); border-radius: 14px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); box-shadow: 0 6px 24px rgba(0,0,0,0.35);">
-  <tr style="border-bottom: 1px solid rgba(199,146,234,0.2);">
-    <td style="font-family: 'Segoe UI', sans-serif; font-size: 15px; color: #c792ea; font-weight: bold; width: 35%;">🎓 Rust School Demo Day App</td>
-    <td style="font-family: 'Segoe UI', sans-serif; font-size: 14px; color: #a9b7c6;">A native Rust application built for demonstration purposes, showcasing performance-first architecture and clean system design.</td>
-  </tr>
-  <tr style="border-bottom: 1px solid rgba(137,221,255,0.15);">
-    <td style="font-family: 'Segoe UI', sans-serif; font-size: 15px; color: #89ddff; font-weight: bold;">🔀 Statistical Logic Gate Script</td>
-    <td style="font-family: 'Segoe UI', sans-serif; font-size: 14px; color: #a9b7c6;">An intelligent script implementing statistical decision-making logic gates for automated data routing and analysis pipelines.</td>
-  </tr>
-  <tr>
-    <td style="font-family: 'Segoe UI', sans-serif; font-size: 15px; color: #ffcb6b; font-weight: bold;">💬 Conversational Software Prototype</td>
-    <td style="font-family: 'Segoe UI', sans-serif; font-size: 14px; color: #a9b7c6;">A localized conversational AI prototype designed for natural language interaction with privacy-first architecture.</td>
-  </tr>
-</table>
-
-<br/><br/>
-
-<!-- 5. GitHub Stats - Transparent Glass-Compatible Theme -->
-<h3 style="font-family: 'Segoe UI', sans-serif; color: #ffcb6b; text-shadow: 0 0 12px rgba(255,203,107,0.4);">📊 GitHub Statistics</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bixenbrown&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=c792ea&text_color=a9b7c6&icon_color=89ddff&theme=tokyonight" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bixenbrown&hide_border=true&bg_color=00000000&dates=89ddff&ring=c792ea&fire=c792ea&currStreakNum=ffcb6b&sideNums=89ddff&currStreakLabel=ffcb6b&sideLabels=c792ea&theme=tokyonight" alt="Streak Stats" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bixenbrown&layout=compact&theme=tokyonight&bg_color=00000000&title_color=C792EA&text_color=c9c9e0&border_color=00B8A9&border_radius=12&hide_border=false" alt="bixenbrown's Top Languages" height="165"/>
 </p>
 
 </div>
 
-<!-- 
-  Glassmorphism Profile README for @bixenbrown
-  Design: Deep navy/charcoal background with violet-cyan-pink gradient accents
-  Aesthetic: Premium dark-mode dashboard with frosted glass panels
--->
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%20-6C5CE7?style=for-the-badge&labelColor=6C5CE7" height="4" width="700"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=14&duration=4000&pause=2000&color=00B8A9&background=0D111700&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by+%E2%9C%A8" alt="Footer Typing SVG" />
+
+</div>
